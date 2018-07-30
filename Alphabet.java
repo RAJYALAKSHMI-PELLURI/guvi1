@@ -1,5 +1,5 @@
 import java.util.*;
-class Alphabets
+class Alphabet
 {
 	public static void main (String[] args) throws java.lang.Exception
     {
